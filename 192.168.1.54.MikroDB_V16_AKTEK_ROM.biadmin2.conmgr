@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.168.1.54.MikroDB_V16_AKTEK_ROM.biadmin2"
+  DTS:DTSID="{0893FA21-1ACC-4E16-B29C-7BEF85CB3518}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=192.168.1.54;User ID=biadmin2;Initial Catalog=MikroDB_V16_AKTEK_ROM;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;Application Name=SSIS-DWH_RMN-{0893FA21-1ACC-4E16-B29C-7BEF85CB3518}192.168.1.54.MikroDB_V16_AKTEK_ROM.biadmin2;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1"
+        p4:Salt="aYnPiMVC1cE="
+        p4:IV="zeOWqur28d8MEjPZ+lfZlg=="
+        p4:Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" xmlns:p4="www.microsoft.com/SqlServer/SSIS">8QGddnhovin2H2qKMUakmIeZCmVssxPH3N48tOXcX2Wxn9q4jEW+95QMFAYBNtkcpV0GLvRK1c9EEUDBTVySjtyXuP1+Hk7vzjZB+Hk+0Le51VvOUa6cepuYx//pqAH29cY2QdQzog88dukmuZDJx4Wu0VedCgl4h8AbdPs5z1w=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
