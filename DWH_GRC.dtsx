@@ -12,8 +12,8 @@
   DTS:ObjectName="DWH_GRC"
   DTS:PackageType="5"
   DTS:ProtectionLevel="2"
-  DTS:VersionBuild="94"
-  DTS:VersionGUID="{691FC305-6585-446D-B94E-F161BFA4B746}">
+  DTS:VersionBuild="95"
+  DTS:VersionGUID="{DB555679-6971-4B62-808A-C285195994A7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -61161,109 +61161,109 @@ where sfiyat_listesirano=1</property>
               startId="Package\AKTARIM\GRC DONEM YAYILAN.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output25]"
-              endId="Package\AKTARIM\DWH GUIDSIP.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH FIRMA KREDI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSIP.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC FIRMA KREDI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output26]"
-              endId="Package\AKTARIM\DWH GUIDSHO.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH BANKALAR.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSHO.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC BANKALAR.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output27]"
-              endId="Package\AKTARIM\DWH GUIDPRO.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CARI_TEMINAT.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDPRO.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC CARI_TEMINAT.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output28]"
-              endId="Package\AKTARIM\DWH ITHALAT DOSYALARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_SEZON.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC ITHALAT DOSYALARI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_SEZON.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output29]"
-              endId="Package\AKTARIM\DWH STOK_MODEL Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH KREDI SOZLESME.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_MODEL Source.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC KREDI SOZLESME.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output30]"
-              endId="Package\AKTARIM\DWH STOK_MARKALARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH FINANSAL SOZLESME.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_MARKALARI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC FINANSAL SOZLESME.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output31]"
-              endId="Package\AKTARIM\DWH MUHASEBE HESAP PLANI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_ALTGRUP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC MUHASEBE HESAP PLAN.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_ALTGRUP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output32]"
-              endId="Package\AKTARIM\DWH MASRAF_HESAPLARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_CARI_ISK.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC MASRAF HESAPLARI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_CARI_ISK.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output33]"
-              endId="Package\AKTARIM\DWH CHEVRAKISIM.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CARI GRUP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC CHEVRAKISIM.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC CARI GRUP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output34]"
-              endId="Package\AKTARIM\DWH GUIDSTH.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH KUR_ISIMLERI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSTH.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC KUR_ISIMLERI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output35]"
-              endId="Package\AKTARIM\DWH CARI_PER Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_ANAGRUP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC CARI_PER Source.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_ANAGRUP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output36]"
-              endId="Package\AKTARIM\DWH PERSONELLER.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CARI BOLGELER.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC PERSONELLER.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC CARI BOLGELER.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output37]"
-              endId="Package\AKTARIM\DWH DEMIRBASLAR.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH DEPOLAR.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC DEMIRBASLAR.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC DEPOLAR.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output38]"
-              endId="Package\AKTARIM\DWH GUIDDOV.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_SATIS_FLT.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDDOV.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_SATIS_FLT.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output39]"
-              endId="Package\AKTARIM\DWH KONSIYE HAREKET.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GENDATA.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC KONSIYE HAREKET.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC GENDATA.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output40]"
-              endId="Package\AKTARIM\DWH GUIDCAR.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH HIZMET HESAPLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDCAR.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC HIZMET HESAPLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output41]"
-              endId="Package\AKTARIM\DWH STOK_KATEGORILERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CARI ADRESLER.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_KATEGORILERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC CARI ADRESLER.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output42]"
-              endId="Package\AKTARIM\DWH STOK_SEKTORLERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH VERİPARAM.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_SEKTORLERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC VERİPARAM.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output43]"
-              endId="Package\AKTARIM\DWH GUIDCHA.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH ODEME PLANLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDCHA.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC ODEME PLANLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output24]"
-              endId="Package\AKTARIM\DWH GUIDSTO.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_FIYAT_DEGISIKLIKLERI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSTO.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_FIYAT_DEGISIKLIKLERI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output23]"
-              endId="Package\AKTARIM\DWH GUIDCHI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH DOVIZ KURLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDCHI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC DOVIZ K.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output22]"
               endId="Package\AKTARIM\DWH KASALAR.Inputs[OLE DB Destination Input]"
@@ -61271,114 +61271,114 @@ where sfiyat_listesirano=1</property>
               startId="Package\AKTARIM\GRC KASALAR.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output21]"
-              endId="Package\AKTARIM\DWH DOVIZ KURLARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDCHI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC DOVIZ K.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDCHI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output1]"
-              endId="Package\AKTARIM\DWH STOK_FIYAT_DEGISIKLIKLERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDSIP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_FIYAT_DEGISIKLIKLERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDSIP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output2]"
-              endId="Package\AKTARIM\DWH FIRMA KREDI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDSHO.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC FIRMA KREDI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDSHO.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output3]"
-              endId="Package\AKTARIM\DWH BANKALAR.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDPRO.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC BANKALAR.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDPRO.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output4]"
-              endId="Package\AKTARIM\DWH CARI_TEMINAT.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH ITHALAT DOSYALARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC CARI_TEMINAT.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC ITHALAT DOSYALARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output5]"
-              endId="Package\AKTARIM\DWH STOK_SEZON.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_MODEL Destination.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_SEZON.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_MODEL Source.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output6]"
-              endId="Package\AKTARIM\DWH KREDI SOZLESME.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_MARKALARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC KREDI SOZLESME.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC STOK_MARKALARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output7]"
-              endId="Package\AKTARIM\DWH FINANSAL SOZLESME.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH MUHASEBE HESAP PLANI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC FINANSAL SOZLESME.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC MUHASEBE HESAP PLAN.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output8]"
-              endId="Package\AKTARIM\DWH STOK_ALTGRUP.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH MASRAF_HESAPLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_ALTGRUP.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC MASRAF HESAPLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output9]"
-              endId="Package\AKTARIM\DWH STOK_CARI_ISK.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CHEVRAKISIM.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_CARI_ISK.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GRC CHEVRAKISIM.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output44]"
-              endId="Package\AKTARIM\DWH CARI GRUP.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC CARI GRUP.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output10]"
-              endId="Package\AKTARIM\DWH KUR_ISIMLERI.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC KUR_ISIMLERI.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output12]"
-              endId="Package\AKTARIM\DWH STOK_ANAGRUP.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_ANAGRUP.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output13]"
-              endId="Package\AKTARIM\DWH CARI BOLGELER.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC CARI BOLGELER.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output14]"
-              endId="Package\AKTARIM\DWH DEPOLAR.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC DEPOLAR.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output15]"
-              endId="Package\AKTARIM\DWH STOK_SATIS_FLT.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC STOK_SATIS_FLT.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output16]"
-              endId="Package\AKTARIM\DWH GENDATA.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC GENDATA.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output17]"
-              endId="Package\AKTARIM\DWH HIZMET HESAPLARI.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC HIZMET HESAPLARI.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output18]"
-              endId="Package\AKTARIM\DWH CARI ADRESLER.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC CARI ADRESLER.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output19]"
-              endId="Package\AKTARIM\DWH VERİPARAM.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC VERİPARAM.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output20]"
-              endId="Package\AKTARIM\DWH ODEME PLANLARI.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GRC ODEME PLANLARI.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output11]"
               endId="Package\AKTARIM\DWH GUIDZIY.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
               startId="Package\AKTARIM\GUIDZIY.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output10]"
+              endId="Package\AKTARIM\DWH GUIDSTH.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GUIDSTH.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output12]"
+              endId="Package\AKTARIM\DWH PERSONELLER.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GRC PERSONELLER.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output13]"
+              endId="Package\AKTARIM\DWH DEMIRBASLAR.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GRC DEMIRBASLAR.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output14]"
+              endId="Package\AKTARIM\DWH GUIDDOV.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GUIDDOV.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output15]"
+              endId="Package\AKTARIM\DWH KONSIYE HAREKET.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GRC KONSIYE HAREKET.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output16]"
+              endId="Package\AKTARIM\DWH GUIDCAR.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GUIDCAR.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output17]"
+              endId="Package\AKTARIM\DWH STOK_KATEGORILERI.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GRC STOK_KATEGORILERI.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output18]"
+              endId="Package\AKTARIM\DWH STOK_SEKTORLERI.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GRC STOK_SEKTORLERI.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output19]"
+              endId="Package\AKTARIM\DWH GUIDCHA.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GUIDCHA.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output20]"
+              endId="Package\AKTARIM\DWH GUIDSTO.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GUIDSTO.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output11]"
+              endId="Package\AKTARIM\DWH CARI_PER Destination.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\GRC CARI_PER Source.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output45]"
               endId="Package\AKTARIM\DWH STOK_SATIS_FIYAT_LISTELERI.Inputs[OLE DB Destination Input]"
@@ -61407,7 +61407,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="CARI HESAP HAR"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="6">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61429,7 +61429,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="CARI HESAPLAR"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="4">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61473,7 +61473,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="PROFORMA SIP"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61495,7 +61495,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="SIPARSILER"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="7">
+          DTS:ThreadHint="1">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61517,7 +61517,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="STH EK"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="8">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61539,7 +61539,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="STOK HAREKETLERI"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61561,7 +61561,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="STOKLAR"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="0">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61583,7 +61583,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="ZIYARET HAREKETLERI"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="8">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61680,7 +61680,7 @@ where sfiyat_listesirano=1</property>
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{773CF461-D7FD-4838-B3E3-467E0BE76FC7}"
-          SQLTask:SqlStatementSource="INSERT INTO SATIS_ANALIZ_CHA&#xA;SELECT &#xA; [cha_Guid]&#xA;,[cha_evrak_tip]&#xA;,[cha_tarihi]&#xA;,[cha_kod]&#xA;,[cari_unvan1]&#xA;,[cha_tip]&#xA;,[cha_normal_Iade]&#xA;,[cha_tpoz]&#xA;,[cha_miktari]&#xA;,[cha_meblag]&#xA;,cha_d_cins&#xA;,[cha_vergi4]&#xA;,cha_d_kur&#xA;,[cha_altd_kur]&#xA;,[cari_temsilci_kodu]&#xA;,cha_satici_kodu&#xA;,KUR&#xA;,KONTROL&#xA;,(CASE WHEN cha_evrak_tip=0 and cha_tpoz=0 THEN eksi_yerel_meblag WHEN  cha_evrak_tip IN (1,2,29,31,33,63) OR  (cha_evrak_tip=0 and cha_normal_Iade=1 and cha_tpoz=1) THEN arti_yerel_meblag ELSE NULL END) AS Yerel_Meblag&#xA;,(CASE WHEN KUR=0 THEN 0 ELSE (&#xA;(CASE WHEN cha_evrak_tip=0 and cha_tpoz=0 THEN eksi_yerel_meblag WHEN  cha_evrak_tip IN (1,2,29,31,33,63) OR (cha_evrak_tip=0 and cha_normal_Iade=1 and cha_tpoz=1) THEN arti_yerel_meblag ELSE NULL END) &#xA;/KUR) END) AS Meblag_Kur&#xA;FROM&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#x9;(&#xA;&#x9;SELECT * &#xA;&#x9;&#x9;&#x9;&#x9;      ,(CASE WHEN cha_d_cins=1 THEN (([cha_meblag]-[cha_vergi4])*(-1)*KUR) WHEN cha_d_cins IN (0,21) THEN (([cha_meblag]-[cha_vergi4])*(-1)) ELSE NULL END) AS eksi_yerel_meblag &#xA;&#x9;&#x9;&#x9;&#x9;      ,(CASE WHEN cha_d_cins=1 THEN (([cha_meblag]-[cha_vergi4])*KUR) WHEN cha_d_cins IN (0,21) THEN (([cha_meblag]-[cha_vergi4]))ELSE NULL END) AS arti_yerel_meblag &#xA;&#x9;FROM &#xA;&#xA;&#x9;&#x9;&#x9;(SELECT &#xA;&#x9;&#x9;           [cha_Guid]&#xA;&#x9;&#x9;          ,[cha_evrak_tip]&#xA;&#x9;&#x9;          ,[cha_tarihi]&#xA;&#x9;&#x9;          ,(case when [cha_ciro_cari_kodu]!='' then cha_ciro_cari_kodu else [cha_kod] end) as [cha_kod]&#xA;&#x9;&#x9;          ,[cari_unvan1]&#xA;&#x9;&#x9;          ,[cha_tip]&#xA;&#x9;&#x9;          ,[cha_normal_Iade]&#xA;&#x9;&#x9;          ,[cha_tpoz]&#xA;&#x9;&#x9;          ,[cha_miktari]&#xA;&#x9;&#x9;          ,[cha_meblag]&#xA;&#x9;&#x9;          ,(CASE WHEN cha_d_cins =0 THEN 21 ELSE cha_d_cins END) AS cha_d_cins &#xA;&#x9;&#x9;          ,[cha_vergi4]&#xA;&#x9;&#x9;          ,[cha_altd_kur]&#xA;&#x9;&#x9;&#x9;&#x9;  ,cha_d_kur&#xA;&#x9;&#x9;          ,[cari_temsilci_kodu]&#xA;&#x9;&#x9;&#x9;&#x9;  ,cha_satici_kodu&#xA;&#x9;&#x9;          ,ISNULL((select top 1 dov_fiyat1 from DOVIZ_KURLARI where dov_no=1 and dov_tarih&lt;=cha_tarihi order by dov_tarih desc),1) AS KUR&#xA;&#x9;&#x9;          ,(CASE WHEN cha_evrak_tip=0 AND cha_normal_Iade=0 THEN 1 ELSE 0 END) AS KONTROL&#xA;&#xA;&#x9;&#x9;&#x9;FROM  CARI_HESAP_HAREKETLERI CHS&#xA;&#x9;&#x9;&#x9;INNER JOIN  CARI_HESAPLAR CH ON CH.cari_kod=IIF(cha_ciro_cari_kodu='',cha_kod,cha_ciro_cari_kodu)&#xA;&#x9;&#x9;&#x9; ) T&#xA;&#x9;)T2" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="INSERT INTO SATIS_ANALIZ_CHA&#xA;SELECT &#xA; [cha_Guid]&#xA;,[cha_evrak_tip]&#xA;,[cha_tarihi]&#xA;,[cha_kod]&#xA;,[cari_unvan1]&#xA;,[cha_tip]&#xA;,[cha_normal_Iade]&#xA;,[cha_tpoz]&#xA;,[cha_miktari]&#xA;,[cha_meblag]&#xA;,cha_d_cins&#xA;,[cha_vergi]&#xA;,cha_d_kur&#xA;,[cha_altd_kur]&#xA;,[cari_temsilci_kodu]&#xA;,cha_satici_kodu&#xA;,KUR&#xA;,KONTROL&#xA;,(CASE WHEN cha_evrak_tip=0 and cha_tpoz=0 THEN eksi_yerel_meblag WHEN  cha_evrak_tip IN (1,2,29,31,33,63) OR  (cha_evrak_tip=0 and cha_normal_Iade=1 and cha_tpoz=1) THEN arti_yerel_meblag ELSE NULL END) AS Yerel_Meblag&#xA;,(CASE WHEN KUR=0 THEN 0 ELSE (&#xA;(CASE WHEN cha_evrak_tip=0 and cha_tpoz=0 THEN eksi_yerel_meblag WHEN  cha_evrak_tip IN (1,2,29,31,33,63) OR (cha_evrak_tip=0 and cha_normal_Iade=1 and cha_tpoz=1) THEN arti_yerel_meblag ELSE NULL END) &#xA;/KUR) END) AS Meblag_Kur&#xA;FROM&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#x9;(&#xA;&#x9;SELECT * &#xA;&#x9;&#x9;&#x9;&#x9;      ,(CASE WHEN cha_d_cins=1 THEN (([cha_meblag]-[cha_vergi])*(-1)*KUR) WHEN cha_d_cins IN (0,21) THEN (([cha_meblag]-[cha_vergi])*(-1)) ELSE NULL END) AS eksi_yerel_meblag &#xA;&#x9;&#x9;&#x9;&#x9;      ,(CASE WHEN cha_d_cins=1 THEN (([cha_meblag]-[cha_vergi])*KUR) WHEN cha_d_cins IN (0,21) THEN (([cha_meblag]-[cha_vergi]))ELSE NULL END) AS arti_yerel_meblag &#xA;&#x9;FROM &#xA;&#xA;&#x9;&#x9;&#x9;(SELECT &#xA;&#x9;&#x9;           [cha_Guid]&#xA;&#x9;&#x9;          ,[cha_evrak_tip]&#xA;&#x9;&#x9;          ,[cha_tarihi]&#xA;&#x9;&#x9;          ,(case when [cha_ciro_cari_kodu]!='' then cha_ciro_cari_kodu else [cha_kod] end) as [cha_kod]&#xA;&#x9;&#x9;          ,[cari_unvan1]&#xA;&#x9;&#x9;          ,[cha_tip]&#xA;&#x9;&#x9;          ,[cha_normal_Iade]&#xA;&#x9;&#x9;          ,[cha_tpoz]&#xA;&#x9;&#x9;          ,[cha_miktari]&#xA;&#x9;&#x9;          ,[cha_meblag]&#xA;&#x9;&#x9;          ,(CASE WHEN cha_d_cins =0 THEN 21 ELSE cha_d_cins END) AS cha_d_cins &#xA;&#x9;&#x9;&#x9;&#x9;  ,(cha_vergi1+cha_vergi2+cha_vergi3+cha_vergi4+cha_vergi5+cha_vergi6+cha_vergi7+cha_vergi8+cha_vergi9+cha_vergi10+cha_vergi11+cha_vergi12+cha_vergi13+cha_vergi14+cha_vergi15+cha_vergi16+cha_vergi17+cha_vergi18+cha_vergi19+cha_vergi20) as cha_vergi&#xA;&#x9;&#x9;          ,[cha_altd_kur]&#xA;&#x9;&#x9;&#x9;&#x9;  ,cha_d_kur&#xA;&#x9;&#x9;          ,[cari_temsilci_kodu]&#xA;&#x9;&#x9;&#x9;&#x9;  ,cha_satici_kodu&#xA;&#x9;&#x9;          ,ISNULL((select top 1 dov_fiyat1 from DOVIZ_KURLARI where dov_no=1 and dov_tarih&lt;=cha_tarihi order by dov_tarih desc),1) AS KUR&#xA;&#x9;&#x9;          ,(CASE WHEN cha_evrak_tip=0 AND cha_normal_Iade=0 THEN 1 ELSE 0 END) AS KONTROL&#xA;&#xA;&#x9;&#x9;&#x9;FROM  CARI_HESAP_HAREKETLERI CHS&#xA;&#x9;&#x9;&#x9;INNER JOIN  CARI_HESAPLAR CH ON CH.cari_kod=IIF(cha_ciro_cari_kodu='',cha_kod,cha_ciro_cari_kodu)&#xA;&#x9;&#x9;&#x9; ) T&#xA;&#x9;)T2" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -115413,6 +115413,66 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
                       cachedName="cha_hizli_satis_kasa_no"
                       externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_hizli_satis_kasa_no]"
                       lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_hizli_satis_kasa_no]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi11]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi11"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi11]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi11]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi12]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi12"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi12]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi12]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi13]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi13"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi13]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi13]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi14]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi14"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi14]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi14]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi15]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi15"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi15]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi15]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi16]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi16"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi16]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi16]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi17]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi17"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi17]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi17]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi18]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi18"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi18]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi18]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi19]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi19"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi19]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi19]" />
+                    <inputColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].Columns[cha_vergi20]"
+                      cachedDataType="r8"
+                      cachedName="cha_vergi20"
+                      externalMetadataColumnId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi20]"
+                      lineageId="Package\SLOWLY CHANGING\GRC CHA Source.Outputs[OLE DB Source Output].Columns[cha_vergi20]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -116058,6 +116118,46 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
                       refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_hizli_satis_kasa_no]"
                       dataType="i2"
                       name="cha_hizli_satis_kasa_no" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi11]"
+                      dataType="r8"
+                      name="cha_vergi11" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi12]"
+                      dataType="r8"
+                      name="cha_vergi12" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi13]"
+                      dataType="r8"
+                      name="cha_vergi13" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi14]"
+                      dataType="r8"
+                      name="cha_vergi14" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi15]"
+                      dataType="r8"
+                      name="cha_vergi15" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi16]"
+                      dataType="r8"
+                      name="cha_vergi16" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi17]"
+                      dataType="r8"
+                      name="cha_vergi17" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi18]"
+                      dataType="r8"
+                      name="cha_vergi18" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi19]"
+                      dataType="r8"
+                      name="cha_vergi19" />
+                    <externalMetadataColumn
+                      refId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input].ExternalColumns[cha_vergi20]"
+                      dataType="r8"
+                      name="cha_vergi20" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -158477,24 +158577,24 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
               startId="Package\SLOWLY CHANGING\ZIYARET HAREKETLERI SCD.Outputs[Changing Attribute Updates Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output8]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 3.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\STOK HAREKETLERI SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\STOKLAR SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output7]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 1.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 2.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\CARI HESAPLAR SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\CHA INDEX SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output6]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 4.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\SIPARISLER SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\CHA SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output5]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 7.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 5.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\PROFORMA SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\STH OZET SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output4]"
               endId="Package\SLOWLY CHANGING\Insert Destination 9.Inputs[OLE DB Destination Input]"
@@ -158502,24 +158602,24 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
               startId="Package\SLOWLY CHANGING\ZIYARET HAREKETLERI SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output3]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 5.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 7.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\STH OZET SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\PROFORMA SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output2]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 4.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\CHA SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\SIPARISLER SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output1]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 2.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 1.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\CHA INDEX SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\CARI HESAPLAR SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output]"
-              endId="Package\SLOWLY CHANGING\Insert Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 3.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\STOKLAR SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\STOK HAREKETLERI SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[OLE DB Source Output]"
               endId="Package\SLOWLY CHANGING\CHA INDEX SCD.Inputs[Slowly Changing Dimension Input]"
@@ -159412,7 +159512,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           Id="Package\AKTARIM\DWH STOK_SATIS_FLT"
           TopLeft="1363.85714285714,651.535714285714" />
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output4]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output27]"
           TopLeft="1185.25,842.27380952381">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159434,7 +159534,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output3]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output26]"
           TopLeft="1906.66666666667,98.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159456,7 +159556,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output2]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output25]"
           TopLeft="1932,612.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159478,7 +159578,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output1]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output24]"
           TopLeft="1266.71428571429,616.910714285714">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159500,7 +159600,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output20]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output43]"
           TopLeft="1956.33333333333,670.166666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159522,7 +159622,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output21]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output23]"
           TopLeft="723.333333333333,901.833333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159566,7 +159666,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output23]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output21]"
           TopLeft="698.333333333334,604.904761904763">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159588,7 +159688,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output43]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output19]"
           TopLeft="706.666666666667,676">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159610,7 +159710,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output42]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output18]"
           TopLeft="1209,503.125">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159632,7 +159732,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output41]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output17]"
           TopLeft="1217,275.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159654,7 +159754,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output40]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output16]"
           TopLeft="701.666666666667,742.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159676,7 +159776,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output39]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output15]"
           TopLeft="1966.66666666667,786">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159698,7 +159798,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output38]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output14]"
           TopLeft="700,540.738095238096">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159720,7 +159820,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output37]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output13]"
           TopLeft="1926.66666666667,336">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159742,7 +159842,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output36]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output12]"
           TopLeft="1931.33333333333,277.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159764,7 +159864,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output35]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output11]"
           TopLeft="1206.14285714286,728.857142857143">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159786,7 +159886,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output44]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output33]"
           TopLeft="741,851">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159808,7 +159908,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output34]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output10]"
           TopLeft="704,272.404761904763">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159830,7 +159930,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output32]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output8]"
           TopLeft="1212,448.125">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159852,7 +159952,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output31]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output7]"
           TopLeft="1983.33333333333,216">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159874,7 +159974,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output30]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output6]"
           TopLeft="1200,337.125">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159896,7 +159996,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output29]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output5]"
           TopLeft="1220.42857142857,785.619047619047">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159918,7 +160018,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output28]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output4]"
           TopLeft="1957,391">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159940,7 +160040,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output27]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output3]"
           TopLeft="705,474.071428571429">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159962,7 +160062,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output26]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output2]"
           TopLeft="703.333333333333,403.952380952382">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -159984,7 +160084,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output25]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output1]"
           TopLeft="694,339.071428571429">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160006,7 +160106,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output24]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output20]"
           TopLeft="700.666666666667,200.166666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160072,7 +160172,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output33]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output9]"
           TopLeft="1927,42.6666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160094,7 +160194,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output19]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output42]"
           TopLeft="1168.53571428571,906.738095238096">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160116,7 +160216,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output18]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output41]"
           TopLeft="1948.33333333333,925.166666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160138,7 +160238,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output17]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output40]"
           TopLeft="1952,158.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160160,7 +160260,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output16]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output39]"
           TopLeft="1915,725.166666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160182,7 +160282,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output15]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output38]"
           TopLeft="1201.71428571429,670.482142857142">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160204,7 +160304,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output14]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output37]"
           TopLeft="1149,206.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160226,7 +160326,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output13]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output36]"
           TopLeft="1953.33333333333,854.333333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160248,7 +160348,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output12]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output35]"
           TopLeft="1190,39.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160270,7 +160370,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output11]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output44]"
           TopLeft="697,799.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160292,7 +160392,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output10]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output34]"
           TopLeft="1179,391.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160314,7 +160414,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output9]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output32]"
           TopLeft="708,127">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160336,7 +160436,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output8]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output31]"
           TopLeft="1182,100.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160358,7 +160458,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output7]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output30]"
           TopLeft="1971.33333333333,441.833333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160380,7 +160480,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output6]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output29]"
           TopLeft="1953,496">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -160402,7 +160502,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output5]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output28]"
           TopLeft="1172,153.625">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -161403,45 +161503,25 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
       <GraphLayout
         Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 9"
-          TopLeft="1712,209.5" />
-        <NodeLayout
-          Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 5"
-          TopLeft="1234,209.5" />
-        <NodeLayout
-          Size="174,42"
-          Id="Package\SLOWLY CHANGING\Insert Destination 9"
-          TopLeft="1477,209.5" />
-        <NodeLayout
-          Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 3"
-          TopLeft="756,209.5" />
-        <NodeLayout
           Size="210,42"
           Id="Package\SLOWLY CHANGING\GRC CHA_WITH_INDEX2"
           TopLeft="228,303" />
         <NodeLayout
           Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 7"
-          TopLeft="278,209.5" />
+          Id="Package\SLOWLY CHANGING\OLE DB Command 6"
+          TopLeft="1271,844.499999999999" />
+        <NodeLayout
+          Size="231,42"
+          Id="Package\SLOWLY CHANGING\ZIYARET HAREKETLERI SCD"
+          TopLeft="1448.5,107.5" />
         <NodeLayout
           Size="209,42"
           Id="Package\SLOWLY CHANGING\GRC SIPARISLER Source"
           TopLeft="1198.5,303" />
         <NodeLayout
-          Size="173,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command"
-          TopLeft="1709.5,507" />
-        <NodeLayout
           Size="167,42"
           Id="Package\SLOWLY CHANGING\GRC CHA Source"
           TopLeft="1039.5,640.499999999999" />
-        <NodeLayout
-          Size="169,42"
-          Id="Package\SLOWLY CHANGING\PROFORMA SCD"
-          TopLeft="284.5,107.5" />
         <NodeLayout
           Size="174,42"
           Id="Package\SLOWLY CHANGING\Insert Destination 2"
@@ -161452,56 +161532,64 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           TopLeft="1468.5,303" />
         <NodeLayout
           Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 4"
-          TopLeft="1241,507" />
+          Id="Package\SLOWLY CHANGING\OLE DB Command 2"
+          TopLeft="285,507" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\SLOWLY CHANGING\OLE DB Command 5"
+          TopLeft="1234,209.5" />
         <NodeLayout
           Size="174,42"
           Id="Package\SLOWLY CHANGING\Insert Destination 6"
           TopLeft="1036,844.499999999999" />
         <NodeLayout
-          Size="159,42"
-          Id="Package\SLOWLY CHANGING\STH OZET SCD"
-          TopLeft="1225.5,107.5" />
-        <NodeLayout
-          Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 6"
-          TopLeft="1271,844.499999999999" />
+          Size="170,42"
+          Id="Package\SLOWLY CHANGING\SIPARISLER SCD"
+          TopLeft="1218,405" />
         <NodeLayout
           Size="174,42"
           Id="Package\SLOWLY CHANGING\Insert Destination 5"
           TopLeft="999,209.5" />
         <NodeLayout
-          Size="165,42"
-          Id="Package\SLOWLY CHANGING\CHA INDEX SCD"
-          TopLeft="250.5,405" />
+          Size="164,42"
+          Id="Package\SLOWLY CHANGING\GRC STH_OZET"
+          TopLeft="1223,5.49999999999989" />
         <NodeLayout
-          Size="174,42"
-          Id="Package\SLOWLY CHANGING\Insert Destination 4"
-          TopLeft="1006,507" />
+          Size="182,42"
+          Id="Package\SLOWLY CHANGING\OLE DB Command 9"
+          TopLeft="1712,209.5" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\SLOWLY CHANGING\STOKLAR SCD"
+          TopLeft="1488,405" />
         <NodeLayout
           Size="232,42"
           Id="Package\SLOWLY CHANGING\GRC CARI HESAPLAR Source"
           TopLeft="499,303" />
         <NodeLayout
-          Size="174,42"
-          Id="Package\SLOWLY CHANGING\Insert Destination 1"
-          TopLeft="528,507" />
-        <NodeLayout
-          Size="231,42"
-          Id="Package\SLOWLY CHANGING\ZIYARET HAREKETLERI SCD"
-          TopLeft="1448.5,107.5" />
+          Size="169,42"
+          Id="Package\SLOWLY CHANGING\PROFORMA SCD"
+          TopLeft="284.5,107.5" />
         <NodeLayout
           Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 2"
-          TopLeft="285,507" />
+          Id="Package\SLOWLY CHANGING\OLE DB Command 1"
+          TopLeft="763,507" />
+        <NodeLayout
+          Size="165,42"
+          Id="Package\SLOWLY CHANGING\CHA INDEX SCD"
+          TopLeft="250.5,405" />
         <NodeLayout
           Size="166,42"
           Id="Package\SLOWLY CHANGING\GRC STH Source"
           TopLeft="538,5.49999999999989" />
         <NodeLayout
           Size="174,42"
-          Id="Package\SLOWLY CHANGING\Insert Destination 7"
-          TopLeft="43,209.5" />
+          Id="Package\SLOWLY CHANGING\Insert Destination 9"
+          TopLeft="1477,209.5" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\SLOWLY CHANGING\OLE DB Command 3"
+          TopLeft="756,209.5" />
         <NodeLayout
           Size="192,42"
           Id="Package\SLOWLY CHANGING\GRC PRO_SIP Source"
@@ -161511,107 +161599,53 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
           Id="Package\SLOWLY CHANGING\Insert Destination 3"
           TopLeft="521,209.5" />
         <NodeLayout
-          Size="165,42"
-          Id="Package\SLOWLY CHANGING\Insert Destination"
-          TopLeft="1483.5,507" />
+          Size="174,42"
+          Id="Package\SLOWLY CHANGING\Insert Destination 7"
+          TopLeft="43,209.5" />
         <NodeLayout
           Size="214,42"
           Id="Package\SLOWLY CHANGING\STOK HAREKETLERI SCD"
           TopLeft="514,107.5" />
         <NodeLayout
+          Size="165,42"
+          Id="Package\SLOWLY CHANGING\Insert Destination"
+          TopLeft="1483.5,507" />
+        <NodeLayout
+          Size="182,42"
+          Id="Package\SLOWLY CHANGING\OLE DB Command 7"
+          TopLeft="278,209.5" />
+        <NodeLayout
           Size="232,42"
           Id="Package\SLOWLY CHANGING\GRC ZIYARET HAREKETLERI"
           TopLeft="1448,5.49999999999977" />
+        <NodeLayout
+          Size="173,42"
+          Id="Package\SLOWLY CHANGING\OLE DB Command"
+          TopLeft="1709.5,507" />
+        <NodeLayout
+          Size="174,42"
+          Id="Package\SLOWLY CHANGING\Insert Destination 4"
+          TopLeft="1006,507" />
+        <NodeLayout
+          Size="159,42"
+          Id="Package\SLOWLY CHANGING\STH OZET SCD"
+          TopLeft="1225.5,107.5" />
         <NodeLayout
           Size="128,42"
           Id="Package\SLOWLY CHANGING\CHA SCD"
           TopLeft="1059,742.499999999999" />
         <NodeLayout
-          Size="170,42"
-          Id="Package\SLOWLY CHANGING\SIPARISLER SCD"
-          TopLeft="1218,405" />
+          Size="174,42"
+          Id="Package\SLOWLY CHANGING\Insert Destination 1"
+          TopLeft="528,507" />
         <NodeLayout
-          Size="164,42"
-          Id="Package\SLOWLY CHANGING\GRC STH_OZET"
-          TopLeft="1223,5.49999999999989" />
-        <NodeLayout
-          Size="156,42"
-          Id="Package\SLOWLY CHANGING\STOKLAR SCD"
-          TopLeft="1488,405" />
+          Size="182,42"
+          Id="Package\SLOWLY CHANGING\OLE DB Command 4"
+          TopLeft="1241,507" />
         <NodeLayout
           Size="193,42"
           Id="Package\SLOWLY CHANGING\CARI HESAPLAR SCD"
           TopLeft="518.5,405" />
-        <NodeLayout
-          Size="182,42"
-          Id="Package\SLOWLY CHANGING\OLE DB Command 1"
-          TopLeft="763,507" />
-        <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output8]"
-          TopLeft="615,345">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output7]"
-          TopLeft="1564,47.4999999999998">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output6]"
-          TopLeft="1566,345">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output5]"
           TopLeft="621,47.4999999999999">
@@ -161746,145 +161780,145 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output8]"
-          TopLeft="586.666666666667,149.5">
+          TopLeft="1541.33333333333,447">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="21.3333333333334,60"
+              EndConnector="24.6666666666665,60"
               Start="0,0"
-              End="21.3333333333334,52.5">
+              End="24.6666666666665,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.2671614100185" />
+                    End="0,20.3654822335026" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.2671614100185"
-                    Point2="0,24.2671614100185"
-                    Point3="4,24.2671614100185" />
+                    Point1="0,20.3654822335026"
+                    Point2="0,24.3654822335026"
+                    Point3="4,24.3654822335026" />
                   <mssgle:LineSegment
-                    End="17.3333333333334,24.2671614100185" />
+                    End="20.6666666666665,24.3654822335026" />
                   <mssgle:CubicBezierSegment
-                    Point1="17.3333333333334,24.2671614100185"
-                    Point2="21.3333333333334,24.2671614100185"
-                    Point3="21.3333333333334,28.2671614100185" />
+                    Point1="20.6666666666665,24.3654822335026"
+                    Point2="24.6666666666665,24.3654822335026"
+                    Point3="24.6666666666665,28.3654822335026" />
                   <mssgle:LineSegment
-                    End="21.3333333333334,52.5" />
+                    End="24.6666666666665,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-16.4247200520833,29.2671614100185,54.1827734375,11.43359375"
+              BoundingBox="-14.7580533854167,29.3654822335026,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output7]"
-          TopLeft="584.166666666667,447">
+          TopLeft="306.833333333333,447">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="30.8333333333335,60"
+              EndConnector="-169.833333333333,60"
               Start="0,0"
-              End="30.8333333333335,52.5">
+              End="-169.833333333333,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.2959917780062" />
+                    End="0,20.3457382953181" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.2959917780062"
-                    Point2="0,24.2959917780062"
-                    Point3="4,24.2959917780062" />
+                    Point1="0,20.3457382953181"
+                    Point2="0,24.3457382953181"
+                    Point3="-4,24.3457382953181" />
                   <mssgle:LineSegment
-                    End="26.8333333333335,24.2959917780062" />
+                    End="-165.833333333333,24.3457382953181" />
                   <mssgle:CubicBezierSegment
-                    Point1="26.8333333333335,24.2959917780062"
-                    Point2="30.8333333333335,24.2959917780062"
-                    Point3="30.8333333333335,28.2959917780062" />
+                    Point1="-165.833333333333,24.3457382953181"
+                    Point2="-169.833333333333,24.3457382953181"
+                    Point3="-169.833333333333,28.3457382953181" />
                   <mssgle:LineSegment
-                    End="30.8333333333335,52.5" />
+                    End="-169.833333333333,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-11.6747200520833,29.2959917780062,54.1827734375,11.43359375"
+              BoundingBox="-112.008053385417,29.3457382953181,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output6]"
-          TopLeft="1276,447">
+          TopLeft="1103,784.499999999999">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-183,60"
+              EndConnector="20,60"
               Start="0,0"
-              End="-183,52.5">
+              End="20,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.3356643356643" />
+                    End="0,20.4444444444445" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.3356643356643"
-                    Point2="0,24.3356643356643"
-                    Point3="-4,24.3356643356643" />
+                    Point1="0,20.4444444444445"
+                    Point2="0,24.4444444444445"
+                    Point3="4,24.4444444444445" />
                   <mssgle:LineSegment
-                    End="-179,24.3356643356643" />
+                    End="16,24.4444444444445" />
                   <mssgle:CubicBezierSegment
-                    Point1="-179,24.3356643356643"
-                    Point2="-183,24.3356643356643"
-                    Point3="-183,28.3356643356643" />
+                    Point1="16,24.4444444444445"
+                    Point2="20,24.4444444444445"
+                    Point3="20,28.4444444444445" />
                   <mssgle:LineSegment
-                    End="-183,52.5" />
+                    End="20,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-118.59138671875,29.3356643356643,54.1827734375,11.43359375"
+              BoundingBox="-17.09138671875,29.4444444444445,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output5]"
-          TopLeft="342.166666666667,149.5">
+          TopLeft="1279.83333333333,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-212.166666666667,60"
+              EndConnector="-193.833333333333,60"
               Start="0,0"
-              End="-212.166666666667,52.5">
+              End="-193.833333333333,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.337631887456" />
+                    End="0,20.3586550435865" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.337631887456"
-                    Point2="0,24.337631887456"
-                    Point3="-4,24.337631887456" />
+                    Point1="0,20.3586550435865"
+                    Point2="0,24.3586550435865"
+                    Point3="-4,24.3586550435865" />
                   <mssgle:LineSegment
-                    End="-208.166666666667,24.337631887456" />
+                    End="-189.833333333333,24.3586550435865" />
                   <mssgle:CubicBezierSegment
-                    Point1="-208.166666666667,24.337631887456"
-                    Point2="-212.166666666667,24.337631887456"
-                    Point3="-212.166666666667,28.337631887456" />
+                    Point1="-189.833333333333,24.3586550435865"
+                    Point2="-193.833333333333,24.3586550435865"
+                    Point3="-193.833333333333,28.3586550435865" />
                   <mssgle:LineSegment
-                    End="-212.166666666667,52.5" />
+                    End="-193.833333333333,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-133.174720052083,29.337631887456,54.1827734375,11.43359375"
+              BoundingBox="-124.008053385417,29.3586550435865,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -161926,145 +161960,145 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output3]"
-          TopLeft="1279.83333333333,149.5">
+          TopLeft="342.166666666667,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-193.833333333333,60"
+              EndConnector="-212.166666666667,60"
               Start="0,0"
-              End="-193.833333333333,52.5">
+              End="-212.166666666667,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.3586550435865" />
+                    End="0,20.337631887456" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.3586550435865"
-                    Point2="0,24.3586550435865"
-                    Point3="-4,24.3586550435865" />
+                    Point1="0,20.337631887456"
+                    Point2="0,24.337631887456"
+                    Point3="-4,24.337631887456" />
                   <mssgle:LineSegment
-                    End="-189.833333333333,24.3586550435865" />
+                    End="-208.166666666667,24.337631887456" />
                   <mssgle:CubicBezierSegment
-                    Point1="-189.833333333333,24.3586550435865"
-                    Point2="-193.833333333333,24.3586550435865"
-                    Point3="-193.833333333333,28.3586550435865" />
+                    Point1="-208.166666666667,24.337631887456"
+                    Point2="-212.166666666667,24.337631887456"
+                    Point3="-212.166666666667,28.337631887456" />
                   <mssgle:LineSegment
-                    End="-193.833333333333,52.5" />
+                    End="-212.166666666667,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-124.008053385417,29.3586550435865,54.1827734375,11.43359375"
+              BoundingBox="-133.174720052083,29.337631887456,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output2]"
-          TopLeft="1103,784.499999999999">
+          TopLeft="1276,447">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="20,60"
+              EndConnector="-183,60"
               Start="0,0"
-              End="20,52.5">
+              End="-183,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.4444444444445" />
+                    End="0,20.3356643356643" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.4444444444445"
-                    Point2="0,24.4444444444445"
-                    Point3="4,24.4444444444445" />
+                    Point1="0,20.3356643356643"
+                    Point2="0,24.3356643356643"
+                    Point3="-4,24.3356643356643" />
                   <mssgle:LineSegment
-                    End="16,24.4444444444445" />
+                    End="-179,24.3356643356643" />
                   <mssgle:CubicBezierSegment
-                    Point1="16,24.4444444444445"
-                    Point2="20,24.4444444444445"
-                    Point3="20,28.4444444444445" />
+                    Point1="-179,24.3356643356643"
+                    Point2="-183,24.3356643356643"
+                    Point3="-183,28.3356643356643" />
                   <mssgle:LineSegment
-                    End="20,52.5" />
+                    End="-183,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-17.09138671875,29.4444444444445,54.1827734375,11.43359375"
+              BoundingBox="-118.59138671875,29.3356643356643,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output1]"
-          TopLeft="306.833333333333,447">
+          TopLeft="584.166666666667,447">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-169.833333333333,60"
+              EndConnector="30.8333333333335,60"
               Start="0,0"
-              End="-169.833333333333,52.5">
+              End="30.8333333333335,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.3457382953181" />
+                    End="0,20.2959917780062" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.3457382953181"
-                    Point2="0,24.3457382953181"
-                    Point3="-4,24.3457382953181" />
+                    Point1="0,20.2959917780062"
+                    Point2="0,24.2959917780062"
+                    Point3="4,24.2959917780062" />
                   <mssgle:LineSegment
-                    End="-165.833333333333,24.3457382953181" />
+                    End="26.8333333333335,24.2959917780062" />
                   <mssgle:CubicBezierSegment
-                    Point1="-165.833333333333,24.3457382953181"
-                    Point2="-169.833333333333,24.3457382953181"
-                    Point3="-169.833333333333,28.3457382953181" />
+                    Point1="26.8333333333335,24.2959917780062"
+                    Point2="30.8333333333335,24.2959917780062"
+                    Point3="30.8333333333335,28.2959917780062" />
                   <mssgle:LineSegment
-                    End="-169.833333333333,52.5" />
+                    End="30.8333333333335,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-112.008053385417,29.3457382953181,54.1827734375,11.43359375"
+              BoundingBox="-11.6747200520833,29.2959917780062,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\SLOWLY CHANGING.Paths[New Output]"
-          TopLeft="1541.33333333333,447">
+          TopLeft="586.666666666667,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="24.6666666666665,60"
+              EndConnector="21.3333333333334,60"
               Start="0,0"
-              End="24.6666666666665,52.5">
+              End="21.3333333333334,52.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,20.3654822335026" />
+                    End="0,20.2671614100185" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,20.3654822335026"
-                    Point2="0,24.3654822335026"
-                    Point3="4,24.3654822335026" />
+                    Point1="0,20.2671614100185"
+                    Point2="0,24.2671614100185"
+                    Point3="4,24.2671614100185" />
                   <mssgle:LineSegment
-                    End="20.6666666666665,24.3654822335026" />
+                    End="17.3333333333334,24.2671614100185" />
                   <mssgle:CubicBezierSegment
-                    Point1="20.6666666666665,24.3654822335026"
-                    Point2="24.6666666666665,24.3654822335026"
-                    Point3="24.6666666666665,28.3654822335026" />
+                    Point1="17.3333333333334,24.2671614100185"
+                    Point2="21.3333333333334,24.2671614100185"
+                    Point3="21.3333333333334,28.2671614100185" />
                   <mssgle:LineSegment
-                    End="24.6666666666665,52.5" />
+                    End="21.3333333333334,52.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-14.7580533854167,29.3654822335026,54.1827734375,11.43359375"
+              BoundingBox="-16.4247200520833,29.2671614100185,54.1827734375,11.43359375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -162366,6 +162400,72 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
             <mssgm:EdgeLabel
               BoundingBox="-78.53390625,20.41845703125,157.0678125,11.6630859375"
               RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output8]"
+          TopLeft="615,345">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output7]"
+          TopLeft="1564,47.4999999999998">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\SLOWLY CHANGING.Paths[OLE DB Source Output6]"
+          TopLeft="1566,345">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -165263,6 +165363,19 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\SLOWLY CHANGING\Insert Destination 6">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
