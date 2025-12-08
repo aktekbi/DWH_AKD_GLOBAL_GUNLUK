@@ -12,8 +12,8 @@
   DTS:ObjectName="DWH_OZB"
   DTS:PackageType="5"
   DTS:ProtectionLevel="2"
-  DTS:VersionBuild="101"
-  DTS:VersionGUID="{2717D7D6-6DB6-4602-91C4-BBCC961C5040}">
+  DTS:VersionBuild="103"
+  DTS:VersionGUID="{A225B9E8-F44F-43D5-9E15-81C8C72A33C5}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -187,7 +187,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\B2B GUIDZIY.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23209,7 +23209,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDCAR.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23317,7 +23317,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDCHA.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23428,7 +23428,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDCHI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23538,8 +23538,8 @@ WHERE durum = 0</property>
               <connections>
                 <connection
                   refId="Package\AKTARIM\GUIDDOV.Connections[OleDbConnection]"
-                  connectionManagerID="{62460F04-11DF-4BFD-9EFC-0D2AC240B68B}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16.biadmin2]"
+                  connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23647,7 +23647,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDPRO.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23755,7 +23755,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDSHO.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23862,7 +23862,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDSIP.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -23970,7 +23970,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDSTH.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -24080,7 +24080,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\GUIDSTO.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -24276,7 +24276,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\OZB BANKALAR.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -26218,7 +26218,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\OZB CARI ADRESLER.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -27374,7 +27374,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\OZB CARI BOLGELER.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -27820,7 +27820,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\OZB CARI GRUP.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -28323,7 +28323,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\OZB CARI_PER Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -29504,7 +29504,7 @@ WHERE durum = 0</property>
                 <connection
                   refId="Package\AKTARIM\OZB CARI_TEMINAT.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -30118,7 +30118,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB CHEVRAKISIM.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -30382,7 +30382,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB DEMIRBASLAR.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -32797,7 +32797,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB DEPOLAR.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -34297,7 +34297,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB DONEM YAYILAN.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -35258,8 +35258,8 @@ WITH(NOLOCK)</property>
               <connections>
                 <connection
                   refId="Package\AKTARIM\OZB DOV KURLARI.Connections[OleDbConnection]"
-                  connectionManagerID="{62460F04-11DF-4BFD-9EFC-0D2AC240B68B}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16.biadmin2]"
+                  connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -35780,7 +35780,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB FINANSAL SOZLESME.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -36439,7 +36439,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB FIRMA KREDI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -37201,7 +37201,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB GENDATA.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -37821,7 +37821,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB HIZMET HESAPLARI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -39127,7 +39127,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB ITHALAT DOSYALARI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -40869,7 +40869,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB KASALAR.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -41547,7 +41547,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB KONSIYE HAREKET.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -43855,7 +43855,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB KREDI SOZLESME.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -45577,8 +45577,8 @@ WITH(NOLOCK)</property>
               <connections>
                 <connection
                   refId="Package\AKTARIM\OZB KUR_ISIMLERI.Connections[OleDbConnection]"
-                  connectionManagerID="{62460F04-11DF-4BFD-9EFC-0D2AC240B68B}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16.biadmin2]"
+                  connectionManagerID="{C0E6DE1B-1921-4650-8CE1-3531689A6E58}:external"
+                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.65.MikroDB_V16.biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -46172,7 +46172,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB MASRAF HESAPLARI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -47207,7 +47207,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB MUHASEBE HESAP PLAN.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -47972,7 +47972,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB ODEME PLANLARI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -48810,7 +48810,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB PERSONELLER.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -54932,7 +54932,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_ALTGRUP.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -55398,7 +55398,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_ANAGRUP.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -55876,7 +55876,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_CARI_ISK.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -56971,7 +56971,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_FIYAT_DEGISIKLIKLERI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -57840,7 +57840,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_KATEGORILERI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -58306,7 +58306,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_MARKALARI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -58751,7 +58751,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_MODEL Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -59217,7 +59217,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_SATIS_FLT.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -60050,7 +60050,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_SEKTORLERI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -60516,7 +60516,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB STOK_SEZON.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -60948,7 +60948,7 @@ WITH(NOLOCK)</property>
                 <connection
                   refId="Package\AKTARIM\OZB VERİPARAM.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -61130,7 +61130,7 @@ where sfiyat_listesirano=1</property>
                 <connection
                   refId="Package\AKTARIM\STOK_SATIS_FIYAT_LISTELERI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -61271,109 +61271,109 @@ where sfiyat_listesirano=1</property>
               startId="Package\AKTARIM\OZB CHEVRAKISIM.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output25]"
-              endId="Package\AKTARIM\DWH STOK_FIYAT_DEGISIKLIKLERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDSTH.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_FIYAT_DEGISIKLIKLERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDSTH.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output26]"
-              endId="Package\AKTARIM\DWH GUIDSTO.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_MODEL Destination.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSTO.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_MODEL Source.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output27]"
-              endId="Package\AKTARIM\DWH MASRAF_HESAPLARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CARI_PER Destination.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB MASRAF HESAPLARI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB CARI_PER Source.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output28]"
-              endId="Package\AKTARIM\DWH KREDI SOZLESME.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_ALTGRUP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB KREDI SOZLESME.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_ALTGRUP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output29]"
-              endId="Package\AKTARIM\DWH FINANSAL SOZLESME.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDPRO.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB FINANSAL SOZLESME.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDPRO.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output30]"
-              endId="Package\AKTARIM\DWH STOK_CARI_ISK.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_KATEGORILERI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_CARI_ISK.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_KATEGORILERI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output31]"
-              endId="Package\AKTARIM\DWH GUIDCHI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH DEPOLAR.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDCHI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB DEPOLAR.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output32]"
-              endId="Package\AKTARIM\DWH CARI BOLGELER.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDCHA.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB CARI BOLGELER.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDCHA.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output33]"
-              endId="Package\AKTARIM\DWH STOK_ANAGRUP.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDCAR.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_ANAGRUP.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDCAR.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output34]"
-              endId="Package\AKTARIM\DWH CARI GRUP.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDDOV.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB CARI GRUP.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDDOV.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output35]"
-              endId="Package\AKTARIM\DWH CARI_ADRESLER.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH ODEME PLANLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB CARI ADRESLER.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB ODEME PLANLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output36]"
-              endId="Package\AKTARIM\DWH KASALAR.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDSIP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB KASALAR.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDSIP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output37]"
-              endId="Package\AKTARIM\DWH DONEM YAYILAN.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDSHO.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB DONEM YAYILAN.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDSHO.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output38]"
-              endId="Package\AKTARIM\DWH KUR_ISIMLERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDZIY.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB KUR_ISIMLERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\B2B GUIDZIY.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output39]"
-              endId="Package\AKTARIM\DWH STOK_MARKALARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH DOV KURLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_MARKALARI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB DOV KURLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output40]"
-              endId="Package\AKTARIM\DWH FIRMA KREDI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH HIZMET HESAPLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB FIRMA KREDI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB HIZMET HESAPLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output41]"
-              endId="Package\AKTARIM\DWH ITHALAT DOSYALARI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH BANKALAR.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB ITHALAT DOSYALARI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB BANKALAR.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output42]"
-              endId="Package\AKTARIM\DWH DEMIRBASLAR.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GENDATA.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB DEMIRBASLAR.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB GENDATA.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output43]"
-              endId="Package\AKTARIM\DWH PERSONELLER.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH VERİPARAM.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB PERSONELLER.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB VERİPARAM.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output24]"
-              endId="Package\AKTARIM\DWH STOK_SATIS_FLT.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_SEZON.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_SATIS_FLT.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_SEZON.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output23]"
-              endId="Package\AKTARIM\DWH STOK_SEKTORLERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH MUHASEBE HESAP PLANI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_SEKTORLERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB MUHASEBE HESAP PLAN.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output22]"
               endId="Package\AKTARIM\DWH KONSIYE HAREKET.Inputs[OLE DB Destination Input]"
@@ -61381,114 +61381,114 @@ where sfiyat_listesirano=1</property>
               startId="Package\AKTARIM\OZB KONSIYE HAREKET.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output21]"
-              endId="Package\AKTARIM\DWH MUHASEBE HESAP PLANI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_SEKTORLERI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB MUHASEBE HESAP PLAN.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_SEKTORLERI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output1]"
-              endId="Package\AKTARIM\DWH STOK_SEZON.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_FIYAT_DEGISIKLIKLERI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_SEZON.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_FIYAT_DEGISIKLIKLERI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output2]"
-              endId="Package\AKTARIM\DWH GUIDSTH.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDSTO.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSTH.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDSTO.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output3]"
-              endId="Package\AKTARIM\DWH STOK_MODEL Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH MASRAF_HESAPLARI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_MODEL Source.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB MASRAF HESAPLARI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output4]"
-              endId="Package\AKTARIM\DWH CARI_PER Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH KREDI SOZLESME.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB CARI_PER Source.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB KREDI SOZLESME.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output5]"
-              endId="Package\AKTARIM\DWH STOK_ALTGRUP.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH FINANSAL SOZLESME.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_ALTGRUP.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB FINANSAL SOZLESME.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output6]"
-              endId="Package\AKTARIM\DWH GUIDPRO.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_CARI_ISK.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDPRO.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_CARI_ISK.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output7]"
-              endId="Package\AKTARIM\DWH STOK_KATEGORILERI.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH GUIDCHI.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB STOK_KATEGORILERI.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\GUIDCHI.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output8]"
-              endId="Package\AKTARIM\DWH DEPOLAR.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH CARI BOLGELER.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB DEPOLAR.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB CARI BOLGELER.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output9]"
-              endId="Package\AKTARIM\DWH GUIDCHA.Inputs[OLE DB Destination Input]"
+              endId="Package\AKTARIM\DWH STOK_ANAGRUP.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDCHA.Outputs[OLE DB Source Output]" />
+              startId="Package\AKTARIM\OZB STOK_ANAGRUP.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output44]"
-              endId="Package\AKTARIM\DWH GUIDCAR.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDCAR.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output10]"
-              endId="Package\AKTARIM\DWH GUIDDOV.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDDOV.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output12]"
-              endId="Package\AKTARIM\DWH ODEME PLANLARI.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB ODEME PLANLARI.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output13]"
-              endId="Package\AKTARIM\DWH GUIDSIP.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSIP.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output14]"
-              endId="Package\AKTARIM\DWH GUIDSHO.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\GUIDSHO.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output15]"
-              endId="Package\AKTARIM\DWH GUIDZIY.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\B2B GUIDZIY.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output16]"
-              endId="Package\AKTARIM\DWH DOV KURLARI.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB DOV KURLARI.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output17]"
-              endId="Package\AKTARIM\DWH HIZMET HESAPLARI.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB HIZMET HESAPLARI.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output18]"
-              endId="Package\AKTARIM\DWH BANKALAR.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB BANKALAR.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output19]"
-              endId="Package\AKTARIM\DWH GENDATA.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB GENDATA.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output20]"
-              endId="Package\AKTARIM\DWH VERİPARAM.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\AKTARIM\OZB VERİPARAM.Outputs[OLE DB Source Output]" />
-            <path
-              refId="Package\AKTARIM.Paths[OLE DB Source Output11]"
               endId="Package\AKTARIM\DWH CARI_TEMINAT.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
               startId="Package\AKTARIM\OZB CARI_TEMINAT.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output10]"
+              endId="Package\AKTARIM\DWH CARI GRUP.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB CARI GRUP.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output12]"
+              endId="Package\AKTARIM\DWH KASALAR.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB KASALAR.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output13]"
+              endId="Package\AKTARIM\DWH DONEM YAYILAN.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB DONEM YAYILAN.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output14]"
+              endId="Package\AKTARIM\DWH KUR_ISIMLERI.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB KUR_ISIMLERI.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output15]"
+              endId="Package\AKTARIM\DWH STOK_MARKALARI.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB STOK_MARKALARI.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output16]"
+              endId="Package\AKTARIM\DWH FIRMA KREDI.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB FIRMA KREDI.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output17]"
+              endId="Package\AKTARIM\DWH ITHALAT DOSYALARI.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB ITHALAT DOSYALARI.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output18]"
+              endId="Package\AKTARIM\DWH DEMIRBASLAR.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB DEMIRBASLAR.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output19]"
+              endId="Package\AKTARIM\DWH PERSONELLER.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB PERSONELLER.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output20]"
+              endId="Package\AKTARIM\DWH STOK_SATIS_FLT.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB STOK_SATIS_FLT.Outputs[OLE DB Source Output]" />
+            <path
+              refId="Package\AKTARIM.Paths[OLE DB Source Output11]"
+              endId="Package\AKTARIM\DWH CARI_ADRESLER.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\AKTARIM\OZB CARI ADRESLER.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\AKTARIM.Paths[OLE DB Source Output45]"
               endId="Package\AKTARIM\DWH STOK_SATIS_FIYAT_LISTELERI.Inputs[OLE DB Destination Input]"
@@ -61517,7 +61517,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="CARI HESAP HAR"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="6">
+          DTS:ThreadHint="5">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61539,7 +61539,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="CARI HESAPLAR"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="7">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61561,7 +61561,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="CHA INDEX2"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="8">
+          DTS:ThreadHint="6">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61583,7 +61583,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="PROFORMA SIP"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="4">
+          DTS:ThreadHint="7">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -61605,7 +61605,7 @@ where sfiyat_listesirano=1</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="SIPARSILER"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="5">
+          DTS:ThreadHint="8">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -107323,7 +107323,7 @@ WHERE  pro_lastup_date &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB  PRO_SIP Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -109803,7 +109803,7 @@ WHERE  zyrt_Lastup_Date&gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB B2B ZIYARET HAREKETLERI.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -110573,7 +110573,7 @@ WHERE  cari_lastup_date &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB CARI HESAPLAR Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -114277,7 +114277,7 @@ WHERE  cha_lastup_date &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB CHA Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -117612,7 +117612,7 @@ WHERE  cha_lastup_date &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB CHA_WITH_INDEX2.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -121712,7 +121712,7 @@ WHERE  sip_lastup_date &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB SIPARISLER Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -124192,7 +124192,7 @@ WHERE  sip_lastup_date &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB STH Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -126828,7 +126828,7 @@ WHERE  sho_RECno &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB STH_OZET.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -127682,7 +127682,7 @@ WHERE  sho_RECno &gt;=?</property>
                 <connection
                   refId="Package\SLOWLY CHANGING\OZB STOKLAR Source.Connections[OleDbConnection]"
                   connectionManagerID="{EB874CB1-A6A4-4BD8-BD60-6AFD3847727E}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[192.168.1.52.MikroDB_V16_RODEX.biadmin2]"
+                  connectionManagerRefId="Project.ConnectionManagers[192 168 1 65 MikroDB_V16_RODEX biadmin2]"
                   description="The OLE DB runtime connection used to access the database."
                   name="OleDbConnection" />
               </connections>
@@ -144415,24 +144415,24 @@ WHERE  sho_RECno &gt;=?</property>
               startId="Package\SLOWLY CHANGING\PROFORMA SIPARISLER SCD.Outputs[Changing Attribute Updates Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output8]"
-              endId="Package\SLOWLY CHANGING\Insert Destination.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 3.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\STOKLAR SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\CHA INDEX SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output7]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 7.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 8.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\SIPARISLER SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\ZIYARET HAR SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output6]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 4.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 2.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\STH OZET SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\PROFORMA SIPARISLER SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output5]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 5.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\STOK HAREKETLERI SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\CARI HESAPLAR SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output4]"
               endId="Package\SLOWLY CHANGING\Insert Destination 1.Inputs[OLE DB Destination Input]"
@@ -144440,24 +144440,24 @@ WHERE  sho_RECno &gt;=?</property>
               startId="Package\SLOWLY CHANGING\CHA SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output3]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 6.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 5.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\CARI HESAPLAR SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\STOK HAREKETLERI SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output2]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 2.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 4.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\PROFORMA SIPARISLER SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\STH OZET SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output1]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 8.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination 7.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\ZIYARET HAR SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\SIPARISLER SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[New Output]"
-              endId="Package\SLOWLY CHANGING\Insert Destination 3.Inputs[OLE DB Destination Input]"
+              endId="Package\SLOWLY CHANGING\Insert Destination.Inputs[OLE DB Destination Input]"
               name="New Output"
-              startId="Package\SLOWLY CHANGING\CHA INDEX SCD.Outputs[New Output]" />
+              startId="Package\SLOWLY CHANGING\STOKLAR SCD.Outputs[New Output]" />
             <path
               refId="Package\SLOWLY CHANGING.Paths[OLE DB Source Output]"
               endId="Package\SLOWLY CHANGING\PROFORMA SIPARISLER SCD.Inputs[Slowly Changing Dimension Input]"
@@ -144982,41 +144982,13 @@ WHERE  sho_RECno &gt;=?</property>
       <GraphLayout
         Capacity="256" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="202,42"
-          Id="Package\AKTARIM\DWH STOK_SATIS_FLT"
-          TopLeft="1367.85714285714,652.202380952381" />
-        <NodeLayout
-          Size="147,42"
-          Id="Package\AKTARIM\B2B GUIDZIY"
-          TopLeft="459,739" />
-        <NodeLayout
-          Size="153,42"
-          Id="Package\AKTARIM\DWH GUIDSIP"
-          TopLeft="696.666666666667,205" />
-        <NodeLayout
-          Size="194,42"
-          Id="Package\AKTARIM\DWH STOK_CARI_ISK"
-          TopLeft="703,933" />
-        <NodeLayout
-          Size="159,42"
-          Id="Package\AKTARIM\DWH KASALAR"
-          TopLeft="1365,542.202380952381" />
-        <NodeLayout
-          Size="183,42"
-          Id="Package\AKTARIM\DWH DOV KURLARI"
-          TopLeft="699,864" />
-        <NodeLayout
           Size="129,42"
           Id="Package\AKTARIM\GUIDSTO"
           TopLeft="443.333333333333,56.6666666666667" />
         <NodeLayout
-          Size="178,42"
-          Id="Package\AKTARIM\OZB STOK_SEZON"
-          TopLeft="992,133" />
-        <NodeLayout
-          Size="195,42"
-          Id="Package\AKTARIM\OZB STOK_ANAGRUP"
-          TopLeft="993,19" />
+          Size="216,42"
+          Id="Package\AKTARIM\OZB ITHALAT DOSYALARI"
+          TopLeft="1748.33333333333,368.333333333333" />
         <NodeLayout
           Size="274,42"
           Id="Package\AKTARIM\DWH STOK_SATIS_FIYAT_LISTELERI"
@@ -145026,25 +144998,57 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH GUIDSHO"
           TopLeft="694.666666666667,283.666666666667" />
         <NodeLayout
-          Size="198,42"
-          Id="Package\AKTARIM\OZB STOK_SATIS_FLT"
-          TopLeft="1005.71428571429,648.095238095238" />
+          Size="205,42"
+          Id="Package\AKTARIM\DWH ODEME PLANLARI"
+          TopLeft="2125,648.333333333333" />
+        <NodeLayout
+          Size="197,42"
+          Id="Package\AKTARIM\OZB CARI_PER Source"
+          TopLeft="1003.33333333333,721" />
         <NodeLayout
           Size="189,42"
           Id="Package\AKTARIM\DWH CARI_TEMINAT"
           TopLeft="1342.28571428571,834.500000000001" />
         <NodeLayout
+          Size="197,42"
+          Id="Package\AKTARIM\DWH CARI BOLGELER"
+          TopLeft="2123.33333333333,825" />
+        <NodeLayout
           Size="222,42"
           Id="Package\AKTARIM\DWH MASRAF_HESAPLARI"
           TopLeft="1363,425.916666666667" />
         <NodeLayout
-          Size="204,42"
-          Id="Package\AKTARIM\OZB STOK_MARKALARI"
-          TopLeft="998,316.666666666667" />
+          Size="179,42"
+          Id="Package\AKTARIM\OZB DOV KURLARI"
+          TopLeft="461,862" />
         <NodeLayout
-          Size="129,42"
-          Id="Package\AKTARIM\GUIDSTH"
-          TopLeft="446.666666666667,143.333333333334" />
+          Size="178,42"
+          Id="Package\AKTARIM\OZB STOK_SEZON"
+          TopLeft="992,133" />
+        <NodeLayout
+          Size="195,42"
+          Id="Package\AKTARIM\OZB STOK_ANAGRUP"
+          TopLeft="993,19" />
+        <NodeLayout
+          Size="215,42"
+          Id="Package\AKTARIM\OZB MASRAF HESAPLARI"
+          TopLeft="999,429.666666666667" />
+        <NodeLayout
+          Size="160,42"
+          Id="Package\AKTARIM\DWH GUIDPRO"
+          TopLeft="698,353.666666666667" />
+        <NodeLayout
+          Size="221,42"
+          Id="Package\AKTARIM\OZB FINANSAL SOZLESME"
+          TopLeft="1746.90476190476,420" />
+        <NodeLayout
+          Size="179,42"
+          Id="Package\AKTARIM\DWH FIRMA KREDI"
+          TopLeft="2125,591.666666666667" />
+        <NodeLayout
+          Size="124,42"
+          Id="Package\AKTARIM\GUIDSIP"
+          TopLeft="445,198.333333333334" />
         <NodeLayout
           Size="222,42"
           Id="Package\AKTARIM\OZB STOK_KATEGORILERI"
@@ -145054,42 +145058,6 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\OZB CARI GRUP"
           TopLeft="458,806" />
         <NodeLayout
-          Size="200,42"
-          Id="Package\AKTARIM\DWH CARI_ADRESLER"
-          TopLeft="2135,886.666666666667" />
-        <NodeLayout
-          Size="182,42"
-          Id="Package\AKTARIM\DWH STOK_SEZON"
-          TopLeft="1354,132.25" />
-        <NodeLayout
-          Size="221,42"
-          Id="Package\AKTARIM\OZB FINANSAL SOZLESME"
-          TopLeft="1746.90476190476,420" />
-        <NodeLayout
-          Size="241,42"
-          Id="Package\AKTARIM\DWH STOK_MODEL Destination"
-          TopLeft="1329.90476190476,778.785714285715" />
-        <NodeLayout
-          Size="155,42"
-          Id="Package\AKTARIM\OZB KASALAR"
-          TopLeft="1001.42857142857,536.666666666667" />
-        <NodeLayout
-          Size="124,42"
-          Id="Package\AKTARIM\GUIDSIP"
-          TopLeft="445,198.333333333334" />
-        <NodeLayout
-          Size="186,42"
-          Id="Package\AKTARIM\OZB PERSONELLER"
-          TopLeft="1745,247.142857142858" />
-        <NodeLayout
-          Size="219,42"
-          Id="Package\AKTARIM\DWH ITHALAT DOSYALARI"
-          TopLeft="2125,365" />
-        <NodeLayout
-          Size="183,42"
-          Id="Package\AKTARIM\OZB DEMIRBASLAR"
-          TopLeft="1746.66666666667,308.333333333333" />
-        <NodeLayout
           Size="199,42"
           Id="Package\AKTARIM\DWH STOK_ANAGRUP"
           TopLeft="1355,18.25" />
@@ -145098,41 +145066,45 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH GUIDDOV"
           TopLeft="686.333333333333,425.333333333334" />
         <NodeLayout
-          Size="179,42"
-          Id="Package\AKTARIM\OZB DOV KURLARI"
-          TopLeft="461,862" />
-        <NodeLayout
-          Size="238,42"
-          Id="Package\AKTARIM\OZB MUHASEBE HESAP PLAN"
-          TopLeft="1743.33333333333,195" />
-        <NodeLayout
-          Size="195,42"
-          Id="Package\AKTARIM\OZB DONEM YAYILAN"
-          TopLeft="1753.33333333333,536.666666666667" />
+          Size="155,42"
+          Id="Package\AKTARIM\OZB KASALAR"
+          TopLeft="1001.42857142857,536.666666666667" />
         <NodeLayout
           Size="130,42"
           Id="Package\AKTARIM\GUIDSHO"
           TopLeft="454.666666666667,285.333333333333" />
         <NodeLayout
-          Size="179,42"
-          Id="Package\AKTARIM\DWH FIRMA KREDI"
-          TopLeft="2125,591.666666666667" />
+          Size="169,42"
+          Id="Package\AKTARIM\OZB VERİPARAM"
+          TopLeft="1015.53571428571,901.071428571429" />
+        <NodeLayout
+          Size="186,42"
+          Id="Package\AKTARIM\OZB PERSONELLER"
+          TopLeft="1745,247.142857142858" />
+        <NodeLayout
+          Size="241,42"
+          Id="Package\AKTARIM\DWH STOK_MODEL Destination"
+          TopLeft="1329.90476190476,778.785714285715" />
+        <NodeLayout
+          Size="183,42"
+          Id="Package\AKTARIM\OZB DEMIRBASLAR"
+          TopLeft="1746.66666666667,308.333333333333" />
         <NodeLayout
           Size="161,42"
           Id="Package\AKTARIM\DWH DEPOLAR"
           TopLeft="1352,185.25" />
         <NodeLayout
-          Size="205,42"
-          Id="Package\AKTARIM\DWH ODEME PLANLARI"
-          TopLeft="2125,648.333333333333" />
+          Size="155,42"
+          Id="Package\AKTARIM\DWH GUIDCHI"
+          TopLeft="693,500.666666666667" />
         <NodeLayout
-          Size="197,42"
-          Id="Package\AKTARIM\DWH CARI BOLGELER"
-          TopLeft="2123.33333333333,825" />
+          Size="200,42"
+          Id="Package\AKTARIM\DWH CARI_ADRESLER"
+          TopLeft="2135,886.666666666667" />
         <NodeLayout
-          Size="180,42"
-          Id="Package\AKTARIM\OZB CHEVRAKISIM"
-          TopLeft="1745,23.3333333333333" />
+          Size="198,42"
+          Id="Package\AKTARIM\OZB STOK_SATIS_FLT"
+          TopLeft="1005.71428571429,648.095238095238" />
         <NodeLayout
           Size="267,42"
           Id="Package\AKTARIM\DWH STOK_FIYAT_DEGISIKLIKLERI"
@@ -145146,6 +145118,30 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\GUIDPRO"
           TopLeft="464.666666666667,355.333333333334" />
         <NodeLayout
+          Size="185,42"
+          Id="Package\AKTARIM\DWH KUR_ISIMLERI"
+          TopLeft="1362,368.916666666667" />
+        <NodeLayout
+          Size="214,42"
+          Id="Package\AKTARIM\DWH STOK_SEKTORLERI"
+          TopLeft="1365,483.916666666667" />
+        <NodeLayout
+          Size="159,42"
+          Id="Package\AKTARIM\DWH GUIDCHA"
+          TopLeft="691.333333333333,577.333333333334" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\AKTARIM\OZB CHEVRAKISIM"
+          TopLeft="1745,23.3333333333333" />
+        <NodeLayout
+          Size="208,42"
+          Id="Package\AKTARIM\DWH STOK_MARKALARI"
+          TopLeft="1363,316.916666666667" />
+        <NodeLayout
+          Size="130,42"
+          Id="Package\AKTARIM\GUIDDOV"
+          TopLeft="478,422" />
+        <NodeLayout
           Size="193,42"
           Id="Package\AKTARIM\OZB CARI ADRESLER"
           TopLeft="1761.66666666667,883.333333333333" />
@@ -145158,41 +145154,9 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\OZB STOK_ALTGRUP"
           TopLeft="988,80" />
         <NodeLayout
-          Size="185,42"
-          Id="Package\AKTARIM\DWH KUR_ISIMLERI"
-          TopLeft="1362,368.916666666667" />
-        <NodeLayout
           Size="217,42"
           Id="Package\AKTARIM\OZB STOK_MODEL Source"
           TopLeft="999.904761904761,776.285714285715" />
-        <NodeLayout
-          Size="158,42"
-          Id="Package\AKTARIM\OZB GENDATA"
-          TopLeft="1755,706.666666666667" />
-        <NodeLayout
-          Size="214,42"
-          Id="Package\AKTARIM\DWH STOK_SEKTORLERI"
-          TopLeft="1365,483.916666666667" />
-        <NodeLayout
-          Size="159,42"
-          Id="Package\AKTARIM\DWH GUIDCHA"
-          TopLeft="691.333333333333,577.333333333334" />
-        <NodeLayout
-          Size="130,42"
-          Id="Package\AKTARIM\GUIDDOV"
-          TopLeft="478,422" />
-        <NodeLayout
-          Size="193,42"
-          Id="Package\AKTARIM\OZB CARI BOLGELER"
-          TopLeft="1760,828.333333333333" />
-        <NodeLayout
-          Size="181,42"
-          Id="Package\AKTARIM\OZB KUR_ISIMLERI"
-          TopLeft="1000,373.666666666667" />
-        <NodeLayout
-          Size="210,42"
-          Id="Package\AKTARIM\OZB HIZMET HESAPLARI"
-          TopLeft="1740,140" />
         <NodeLayout
           Size="245,42"
           Id="Package\AKTARIM\DWH MUHASEBE HESAP PLANI"
@@ -145210,9 +145174,9 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH GUIDCAR"
           TopLeft="694.666666666666,674.000000000001" />
         <NodeLayout
-          Size="216,42"
-          Id="Package\AKTARIM\OZB ITHALAT DOSYALARI"
-          TopLeft="1748.33333333333,368.333333333333" />
+          Size="129,42"
+          Id="Package\AKTARIM\GUIDSTH"
+          TopLeft="446.666666666667,143.333333333334" />
         <NodeLayout
           Size="125,42"
           Id="Package\AKTARIM\GUIDCHI"
@@ -145222,25 +145186,25 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH HIZMET HESAPLARI"
           TopLeft="2113.33333333333,135" />
         <NodeLayout
-          Size="210,42"
-          Id="Package\AKTARIM\OZB STOK_SEKTORLERI"
-          TopLeft="1001,481.666666666667" />
+          Size="193,42"
+          Id="Package\AKTARIM\OZB CARI BOLGELER"
+          TopLeft="1760,828.333333333333" />
         <NodeLayout
           Size="187,42"
           Id="Package\AKTARIM\DWH DEMIRBASLAR"
           TopLeft="2123.33333333333,301.666666666667" />
         <NodeLayout
-          Size="208,42"
-          Id="Package\AKTARIM\DWH STOK_MARKALARI"
-          TopLeft="1363,316.916666666667" />
+          Size="167,42"
+          Id="Package\AKTARIM\DWH BANKALAR"
+          TopLeft="2110,75" />
+        <NodeLayout
+          Size="210,42"
+          Id="Package\AKTARIM\OZB HIZMET HESAPLARI"
+          TopLeft="1740,140" />
         <NodeLayout
           Size="245,42"
           Id="Package\AKTARIM\STOK_SATIS_FIYAT_LISTELERI"
           TopLeft="323.333333333333,988" />
-        <NodeLayout
-          Size="175,42"
-          Id="Package\AKTARIM\OZB FIRMA KREDI"
-          TopLeft="1755,591.666666666667" />
         <NodeLayout
           Size="169,42"
           Id="Package\AKTARIM\DWH CARI GRUP"
@@ -145250,25 +145214,17 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH KONSIYE HAREKET"
           TopLeft="2128.33333333333,763.333333333333" />
         <NodeLayout
-          Size="201,42"
-          Id="Package\AKTARIM\OZB ODEME PLANLARI"
-          TopLeft="1753.33333333333,650" />
-        <NodeLayout
           Size="130,42"
           Id="Package\AKTARIM\GUIDCHA"
           TopLeft="458,580.666666666667" />
         <NodeLayout
+          Size="175,42"
+          Id="Package\AKTARIM\OZB FIRMA KREDI"
+          TopLeft="1755,591.666666666667" />
+        <NodeLayout
           Size="153,42"
           Id="Package\AKTARIM\DWH GUIDZIY"
           TopLeft="696,743" />
-        <NodeLayout
-          Size="169,42"
-          Id="Package\AKTARIM\OZB VERİPARAM"
-          TopLeft="1015.53571428571,901.071428571429" />
-        <NodeLayout
-          Size="191,42"
-          Id="Package\AKTARIM\OZB STOK_CARI_ISK"
-          TopLeft="458,936" />
         <NodeLayout
           Size="225,42"
           Id="Package\AKTARIM\DWH FINANSAL SOZLESME"
@@ -145278,21 +145234,13 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH CHEVRAKISIM"
           TopLeft="2111.66666666667,20" />
         <NodeLayout
-          Size="215,42"
-          Id="Package\AKTARIM\OZB MASRAF HESAPLARI"
-          TopLeft="999,429.666666666667" />
-        <NodeLayout
           Size="221,42"
           Id="Package\AKTARIM\DWH CARI_PER Destination"
           TopLeft="1332.7619047619,727.357142857144" />
         <NodeLayout
-          Size="155,42"
-          Id="Package\AKTARIM\DWH GUIDCHI"
-          TopLeft="693,500.666666666667" />
-        <NodeLayout
-          Size="208,42"
-          Id="Package\AKTARIM\OZB KONSIYE HAREKET"
-          TopLeft="1756.66666666667,766.666666666667" />
+          Size="201,42"
+          Id="Package\AKTARIM\OZB ODEME PLANLARI"
+          TopLeft="1753.33333333333,650" />
         <NodeLayout
           Size="130,42"
           Id="Package\AKTARIM\GUIDCAR"
@@ -145302,29 +145250,41 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH PERSONELLER"
           TopLeft="2118.57142857143,251.428571428571" />
         <NodeLayout
-          Size="160,42"
-          Id="Package\AKTARIM\DWH GUIDPRO"
-          TopLeft="698,353.666666666667" />
-        <NodeLayout
           Size="158,42"
           Id="Package\AKTARIM\DWH GUIDSTO"
           TopLeft="703.333333333333,53.3333333333334" />
         <NodeLayout
-          Size="197,42"
-          Id="Package\AKTARIM\OZB CARI_PER Source"
-          TopLeft="1003.33333333333,721" />
+          Size="191,42"
+          Id="Package\AKTARIM\OZB STOK_CARI_ISK"
+          TopLeft="458,936" />
         <NodeLayout
-          Size="263,42"
-          Id="Package\AKTARIM\OZB STOK_FIYAT_DEGISIKLIKLERI"
-          TopLeft="1005.71428571429,593.809523809524" />
+          Size="182,42"
+          Id="Package\AKTARIM\DWH STOK_SEZON"
+          TopLeft="1354,132.25" />
         <NodeLayout
-          Size="163,42"
-          Id="Package\AKTARIM\OZB BANKALAR"
-          TopLeft="1741.66666666667,80" />
+          Size="158,42"
+          Id="Package\AKTARIM\OZB GENDATA"
+          TopLeft="1755,706.666666666667" />
         <NodeLayout
-          Size="185,42"
-          Id="Package\AKTARIM\OZB CARI_TEMINAT"
-          TopLeft="1016.25,836.607142857143" />
+          Size="238,42"
+          Id="Package\AKTARIM\OZB MUHASEBE HESAP PLAN"
+          TopLeft="1743.33333333333,195" />
+        <NodeLayout
+          Size="208,42"
+          Id="Package\AKTARIM\OZB KONSIYE HAREKET"
+          TopLeft="1756.66666666667,766.666666666667" />
+        <NodeLayout
+          Size="195,42"
+          Id="Package\AKTARIM\OZB DONEM YAYILAN"
+          TopLeft="1753.33333333333,536.666666666667" />
+        <NodeLayout
+          Size="204,42"
+          Id="Package\AKTARIM\OZB STOK_MARKALARI"
+          TopLeft="998,316.666666666667" />
+        <NodeLayout
+          Size="210,42"
+          Id="Package\AKTARIM\OZB STOK_SEKTORLERI"
+          TopLeft="1001,481.666666666667" />
         <NodeLayout
           Size="158,42"
           Id="Package\AKTARIM\DWH GUIDSTH"
@@ -145342,27 +145302,67 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\AKTARIM\DWH GENDATA"
           TopLeft="2130,701.666666666667" />
         <NodeLayout
+          Size="219,42"
+          Id="Package\AKTARIM\DWH ITHALAT DOSYALARI"
+          TopLeft="2125,365" />
+        <NodeLayout
+          Size="181,42"
+          Id="Package\AKTARIM\OZB KUR_ISIMLERI"
+          TopLeft="1000,373.666666666667" />
+        <NodeLayout
+          Size="202,42"
+          Id="Package\AKTARIM\DWH STOK_SATIS_FLT"
+          TopLeft="1367.85714285714,652.202380952381" />
+        <NodeLayout
+          Size="263,42"
+          Id="Package\AKTARIM\OZB STOK_FIYAT_DEGISIKLIKLERI"
+          TopLeft="1005.71428571429,593.809523809524" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\AKTARIM\OZB BANKALAR"
+          TopLeft="1741.66666666667,80" />
+        <NodeLayout
+          Size="185,42"
+          Id="Package\AKTARIM\OZB CARI_TEMINAT"
+          TopLeft="1016.25,836.607142857143" />
+        <NodeLayout
+          Size="153,42"
+          Id="Package\AKTARIM\DWH GUIDSIP"
+          TopLeft="696.666666666667,205" />
+        <NodeLayout
+          Size="194,42"
+          Id="Package\AKTARIM\DWH STOK_CARI_ISK"
+          TopLeft="703,933" />
+        <NodeLayout
+          Size="159,42"
+          Id="Package\AKTARIM\DWH KASALAR"
+          TopLeft="1365,542.202380952381" />
+        <NodeLayout
           Size="201,42"
           Id="Package\AKTARIM\OZB KREDI SOZLESME"
           TopLeft="1750,473.333333333333" />
         <NodeLayout
-          Size="167,42"
-          Id="Package\AKTARIM\DWH BANKALAR"
-          TopLeft="2110,75" />
+          Size="147,42"
+          Id="Package\AKTARIM\B2B GUIDZIY"
+          TopLeft="459,739" />
+        <NodeLayout
+          Size="183,42"
+          Id="Package\AKTARIM\DWH DOV KURLARI"
+          TopLeft="699,864" />
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output44]"
-          TopLeft="591.333333333333,691.666666666667">
+          Id="Package\AKTARIM.Paths[OLE DB Source Output11]"
+          TopLeft="1954.66666666667,906">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="103.333333333333,0"
+              EndConnector="180.333333333333,0"
               Start="0,0"
-              End="95.833333333333,0">
+              End="172.833333333333,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="95.833333333333,0" />
+                    End="172.833333333333,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -145372,7 +145372,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output34]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output10]"
           TopLeft="624,826">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145394,7 +145394,29 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output32]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output9]"
+          TopLeft="1188,39.625">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="167,0"
+              Start="0,0"
+              End="159.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="159.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output8]"
           TopLeft="1953,847.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145416,7 +145438,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output31]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output7]"
           TopLeft="591.333333333333,523.333333333334">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145438,7 +145460,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output30]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output6]"
           TopLeft="649,955.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145460,7 +145482,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output29]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output5]"
           TopLeft="1967.90476190476,441.833333333333">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145482,7 +145504,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output28]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output4]"
           TopLeft="1951,496">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145504,7 +145526,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output27]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output3]"
           TopLeft="1214,448.791666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145526,7 +145548,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output26]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output2]"
           TopLeft="572.333333333333,76">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145548,7 +145570,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output25]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output1]"
           TopLeft="1268.71428571429,617.577380952381">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145561,28 +145583,6 @@ WHERE  sho_RECno &gt;=?</property>
                   Capacity="5">
                   <mssgle:LineSegment
                     End="88.7857142857101,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output24]"
-          TopLeft="1203.71428571429,671.148809523809">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="164.14285714285,0"
-              Start="0,0"
-              End="156.64285714285,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="156.64285714285,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -145636,205 +145636,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output33]"
-          TopLeft="1188,39.625">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="167,0"
-              Start="0,0"
-              End="159.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="159.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output19]"
-          TopLeft="1913,725.166666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="217,0"
-              Start="0,0"
-              End="209.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="209.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output18]"
-          TopLeft="1904.66666666667,98.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="205.33333333333,0"
-              Start="0,0"
-              End="197.83333333333,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="197.83333333333,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output17]"
-          TopLeft="1950,158.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="163.33333333333,0"
-              Start="0,0"
-              End="155.83333333333,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="155.83333333333,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output16]"
-          TopLeft="640,884">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="59,0"
-              Start="0,0"
-              End="51.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="51.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output15]"
-          TopLeft="606,762">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="90,0"
-              Start="0,0"
-              End="82.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="82.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output14]"
-          TopLeft="584.666666666667,305.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="110,0"
-              Start="0,0"
-              End="102.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="102.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output13]"
-          TopLeft="569,222.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="127.666666666667,0"
-              Start="0,0"
-              End="120.166666666667,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="120.166666666667,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output12]"
-          TopLeft="1954.33333333333,670.166666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="170.66666666667,0"
-              Start="0,0"
-              End="163.16666666667,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="163.16666666667,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output11]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output44]"
           TopLeft="1201.25,856.553571428572">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -145856,227 +145658,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output10]"
-          TopLeft="608,444.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="78.3333333333333,0"
-              Start="0,0"
-              End="70.8333333333333,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="70.8333333333333,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output9]"
-          TopLeft="588,600">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="103.333333333333,0"
-              Start="0,0"
-              End="95.8333333333334,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="95.8333333333334,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output8]"
-          TopLeft="1147,206.625">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="205,0"
-              Start="0,0"
-              End="197.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="197.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output7]"
-          TopLeft="1219,276.291666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="135,0"
-              Start="0,0"
-              End="127.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="127.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output6]"
-          TopLeft="594.666666666667,375.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="103.333333333333,0"
-              Start="0,0"
-              End="95.8333333333333,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="95.8333333333333,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output5]"
-          TopLeft="1181,100.625">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="169,0"
-              Start="0,0"
-              End="161.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="161.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output4]"
-          TopLeft="1200.33333333333,745.178571428572">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="132.428571428571,0"
-              Start="0,0"
-              End="124.928571428571,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="124.928571428571,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output3]"
-          TopLeft="1216.90476190476,798.535714285715">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="113,0"
-              Start="0,0"
-              End="105.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="105.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output2]"
-          TopLeft="575.666666666667,164.333333333333">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="117.666666666667,0"
-              Start="0,0"
-              End="110.166666666667,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="110.166666666667,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output1]"
-          TopLeft="1170,153.625">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="184,0"
-              Start="0,0"
-              End="176.5,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="176.5,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output20]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output43]"
           TopLeft="1184.53571428571,918.071428571429">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146098,7 +145680,425 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output21]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output42]"
+          TopLeft="1913,725.166666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="217,0"
+              Start="0,0"
+              End="209.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="209.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output41]"
+          TopLeft="1904.66666666667,98.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="205.33333333333,0"
+              Start="0,0"
+              End="197.83333333333,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="197.83333333333,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output40]"
+          TopLeft="1950,158.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="163.33333333333,0"
+              Start="0,0"
+              End="155.83333333333,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="155.83333333333,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output39]"
+          TopLeft="640,884">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="59,0"
+              Start="0,0"
+              End="51.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="51.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output38]"
+          TopLeft="606,762">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="90,0"
+              Start="0,0"
+              End="82.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="82.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output37]"
+          TopLeft="584.666666666667,305.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="110,0"
+              Start="0,0"
+              End="102.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="102.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output36]"
+          TopLeft="569,222.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="127.666666666667,0"
+              Start="0,0"
+              End="120.166666666667,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="120.166666666667,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output35]"
+          TopLeft="1954.33333333333,670.166666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="170.66666666667,0"
+              Start="0,0"
+              End="163.16666666667,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="163.16666666667,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output34]"
+          TopLeft="608,444.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="78.3333333333333,0"
+              Start="0,0"
+              End="70.8333333333333,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="70.8333333333333,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output33]"
+          TopLeft="591.333333333333,691.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="103.333333333333,0"
+              Start="0,0"
+              End="95.833333333333,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="95.833333333333,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output32]"
+          TopLeft="588,600">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="103.333333333333,0"
+              Start="0,0"
+              End="95.8333333333334,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="95.8333333333334,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output31]"
+          TopLeft="1147,206.625">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="205,0"
+              Start="0,0"
+              End="197.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="197.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output30]"
+          TopLeft="1219,276.291666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="135,0"
+              Start="0,0"
+              End="127.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="127.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output29]"
+          TopLeft="594.666666666667,375.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="103.333333333333,0"
+              Start="0,0"
+              End="95.8333333333333,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="95.8333333333333,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output28]"
+          TopLeft="1181,100.625">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="169,0"
+              Start="0,0"
+              End="161.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="161.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output27]"
+          TopLeft="1200.33333333333,745.178571428572">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="132.428571428571,0"
+              Start="0,0"
+              End="124.928571428571,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="124.928571428571,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output26]"
+          TopLeft="1216.90476190476,798.535714285715">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="113,0"
+              Start="0,0"
+              End="105.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="105.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output25]"
+          TopLeft="575.666666666667,164.333333333333">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="117.666666666667,0"
+              Start="0,0"
+              End="110.166666666667,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="110.166666666667,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output24]"
+          TopLeft="1170,153.625">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="184,0"
+              Start="0,0"
+              End="176.5,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="176.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output23]"
           TopLeft="1981.33333333333,216">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146142,7 +146142,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output23]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output21]"
           TopLeft="1211,503.791666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146164,7 +146164,29 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output43]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output20]"
+          TopLeft="1203.71428571429,671.148809523809">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="164.14285714285,0"
+              Start="0,0"
+              End="156.64285714285,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="156.64285714285,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\AKTARIM.Paths[OLE DB Source Output19]"
           TopLeft="1931,270.285714285715">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146186,7 +146208,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output42]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output18]"
           TopLeft="1929.66666666667,326">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146208,7 +146230,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output41]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output17]"
           TopLeft="1964.33333333333,387.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146230,7 +146252,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output40]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output16]"
           TopLeft="1930,612.666666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146252,7 +146274,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output39]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output15]"
           TopLeft="1202,337.791666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146274,7 +146296,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output38]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output14]"
           TopLeft="1181,392.291666666667">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146296,7 +146318,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output37]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output13]"
           TopLeft="1948.33333333333,556">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146318,7 +146340,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output36]"
+          Id="Package\AKTARIM.Paths[OLE DB Source Output12]"
           TopLeft="1156.42857142857,560.434523809524">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -146331,28 +146353,6 @@ WHERE  sho_RECno &gt;=?</property>
                   Capacity="5">
                   <mssgle:LineSegment
                     End="201.07142857143,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\AKTARIM.Paths[OLE DB Source Output35]"
-          TopLeft="1954.66666666667,906">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="180.333333333333,0"
-              Start="0,0"
-              End="172.833333333333,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="172.833333333333,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -147644,7 +147644,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output3]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output5]"
           TopLeft="3866.66666666667,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -147680,7 +147680,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output8]"
           TopLeft="1959.33333333333,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -147716,7 +147716,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output8]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output]"
           TopLeft="719.833333333333,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -147752,7 +147752,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output2]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output6]"
           TopLeft="1686.5,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -147788,7 +147788,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output7]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output1]"
           TopLeft="304.5,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -147860,7 +147860,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output5]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output3]"
           TopLeft="2429.16666666667,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -147896,7 +147896,7 @@ WHERE  sho_RECno &gt;=?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output6]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output2]"
           TopLeft="3615.33333333333,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -148238,7 +148238,7 @@ WHERE  sho_RECno &gt;=?</property>
           Id="Package\SLOWLY CHANGING\Insert Destination 8"
           TopLeft="942.5,209.5" />
         <EdgeLayout
-          Id="Package\SLOWLY CHANGING.Paths[New Output1]"
+          Id="Package\SLOWLY CHANGING.Paths[New Output7]"
           TopLeft="1001.16666666667,149.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
