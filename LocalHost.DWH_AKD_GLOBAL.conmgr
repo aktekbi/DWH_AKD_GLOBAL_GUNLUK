@@ -7,6 +7,6 @@
     <DTS:ConnectionManager
       DTS:ConnectRetryCount="1"
       DTS:ConnectRetryInterval="5"
-      DTS:ConnectionString="Data Source=192.168.1.58;Initial Catalog=DWH_AKD_GLOBAL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-DWH_AKD_GLOBAL-{0534B50F-75F8-43B9-9E9C-6447C73E3E69}LocalHost.DWH_AKD_GLOBAL;" />
+      DTS:ConnectionString="Data Source=.;Initial Catalog=DWH_AKD_GLOBAL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-DWH_AKD_GLOBAL-{0534B50F-75F8-43B9-9E9C-6447C73E3E69}LocalHost.DWH_AKD_GLOBAL;" />
   </DTS:ObjectData>
 </DTS:ConnectionManager>
